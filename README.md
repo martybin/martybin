@@ -5,7 +5,9 @@ Programmer with an interest in:
 - Python Scripting
 - Mathematics
 - Machine Learning
-- AI Agents
+- Deep Learning
+- Reinforcement Learning
+- Agentic AI
 
 Working with:
 

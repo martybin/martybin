@@ -11,11 +11,17 @@ Programmer with an interest in:
 
 Working with:
 
-[![My Skills](https://skillicons.dev/icons?i=python,linux,git,aiscript,sklearn,ubuntu&perline=6)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,r,tensorflow,git,keras,pytorch&perline=6" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=tensorflow,pytorch,opencv,keras,numpy,pandas&perline=6)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=opencv,sklearn,ubuntu,aiscript,numpy,pandas&perline=6" />
+</p>
 
-[![My Skills](https://skillicons.dev/icons?i=seaborn,matplotlib&perline=6)](https://skillicons.dev)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=matplotlib,seaborn&perline=6" />
+</p>
 
 
 ---

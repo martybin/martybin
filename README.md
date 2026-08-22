@@ -17,6 +17,7 @@ Working with:
 <div align="center">
   <!-- Row 1 -->
 <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="40" style="margin: 20px;" title="Python"/></a>
+<a href="https://ubuntu.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" height="40" style="margin: 20px; title="Ubuntu"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tensorflow-icon.svg" alt="TensorFlow" height="40" style="margin: 20px;" title="TensorFlow"/></a>
 <a href="https://github.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="40" style="margin: 20px;" title="Git"/></a>
 <a href="https://keras.io/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg" alt="Keras" height="40" style="margin: 20px;" title="Keras"/></a>

@@ -51,13 +51,13 @@ Programmer with an interest in:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="80" alt="Pandas">
     </td>
     <td align="center">
-        <img src="https://img.icons8.com/color/2x/Seaborn.png" title="seaborn" width="100" alt="seaborn">
+        <img src="https://skill-icons-v2.vercel.app/api/icons?i=seaborn" />
     </td>
     <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yolo/yolo-original.svg" title="YOLO" width="80" alt="YOLO">
     </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/langchain/langchain-original.svg" title="LangChain" width="80" alt="LangChain">
+        <img src="https://img.icons8.com/nolan/2x/github.png" title="github" width="100" alt="github">
     </td>
 </tr>
 ```

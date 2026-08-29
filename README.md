@@ -88,7 +88,7 @@ Programmer with an interest in:
 
 <img
 alt="Matin's GitHub Activity Graph"
-src="https://github-readme-activity-graph.vercel.app/graph?username=martybin&theme=react-dark&hide_border=true"
+src="[![Marty's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=martybin)](https://github.com/martybin/github-readme-activity-graph)"
 />
 
 <br><br>

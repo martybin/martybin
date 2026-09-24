@@ -1,13 +1,13 @@
-### Hi, This Is Marty
+<h2> 🧬 &nbsp;Introduction</h2>
+<div align="center">
+    
+## AI / ML Engineer
 
-Programmer with an interest in:
+`Python` · `Machine Learning` · `Deep Learning` · `Computer Vision`
 
-- Python Scripting
-- Mathematics
-- Machine Learning
-- Deep Learning
-- Reinforcement Learning
-- Agentic AI
+`LLMs` · `RAG` · `Agentic AI` · `Reinforcement Learning`
+
+</div>
 
 
 <h2> 🛠 &nbsp;My Top Skills</h2>

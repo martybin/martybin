@@ -35,11 +35,14 @@ Programmer with an interest in:
         <td align="center">
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" title="OpenCV" width="80" alt="OpenCV">
         </td>
+        <td align="center">
+            <img src="https://raw.githubusercontent.com/langchain-ai/.github/master/profile/logo-light.svg" title="LangChain" width="80" alt="LangChain">
+        </td>
     </tr>
 
 <tr>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" title="Matplotlib" width="80" alt="Matplotlib">
+        <img src="https://raw.githubusercontent.com/Farama-Foundation/Gymnasium/main/gymnasium-text.png" title="Gymnasium" width="80" alt="Gymnasium">
     </td>
     <td align="center">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" title="Scikit-Learn" width="80" alt="Scikit-Learn">
@@ -51,13 +54,16 @@ Programmer with an interest in:
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="Pandas" width="80" alt="Pandas">
     </td>
     <td align="center">
-        <img src="https://skill-icons-v2.vercel.app/api/icons?i=seaborn" />
+        <img src="https://raw.githubusercontent.com/mwaskom/seaborn/master/doc/_static/logo-mark-lightbg.svg" title="Seaborn" width="80" alt="Seaborn"/>
     </td>
     <td align="center">
         <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" title="YOLO" width="80" alt="YOLO">
     </td>
     <td align="center">
         <img src="https://img.icons8.com/nolan/2x/github.png" title="github" width="100" alt="github">
+    </td>
+    <td align="center">
+        <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" title="matplotlib" width="100" alt="matplotlib">
     </td>
 </tr>
 ```

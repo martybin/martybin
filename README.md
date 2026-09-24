@@ -66,11 +66,10 @@ Programmer with an interest in:
         <img src="https://raw.githubusercontent.com/matplotlib/matplotlib/main/doc/_static/logo2.svg" title="matplotlib" width="100" alt="matplotlib">
     </td>
 </tr>
-```
-
 </table>
 
 <br>
+
 
 <!-- GitHub Snake -->
 
@@ -90,23 +89,33 @@ Programmer with an interest in:
 
 <br><br>
 
-<!-- GitHub Activity Graph -->
+<!-- Git Bonsai -->
+
+<h2>🌳 &nbsp;Git Bonsai</h2>
+
+<div align="center">
 
 <img
-alt="Matin's GitHub Activity Graph"
-src="[![Marty's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=martybin&theme=github-compact)](https://github.com/martybin/github-readme-activity-graph)"
-/>
+    src="output/bonsai-growth.gif"
+    width="384"
+    alt="Git Bonsai">
+
+</div>
 
 <br><br>
 
-<!-- Social Links -->
 
+<!-- Social Links -->
+<h2>📩 Connect With Me</h2>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/matin-hosseini-30296a37b?utm_source=chatgpt.com" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" /></a>
+
+<a href="https://www.linkedin.com/in/matin-hosseini-30296a37b" target="_blank">
+<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" style="margin-bottom: 5px;" />
+</a>
+
 <a href="https://github.com/martybin" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" /></a>
+<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px;" />
+</a>
 
 <br />
-

@@ -54,7 +54,7 @@ Programmer with an interest in:
         <img src="https://skill-icons-v2.vercel.app/api/icons?i=seaborn" />
     </td>
     <td align="center">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/yolo/yolo-original.svg" title="YOLO" width="80" alt="YOLO">
+        <img src="https://raw.githubusercontent.com/ultralytics/assets/main/logo/Ultralytics_Logotype_Original.svg" title="YOLO" width="80" alt="YOLO">
     </td>
     <td align="center">
         <img src="https://img.icons8.com/nolan/2x/github.png" title="github" width="100" alt="github">
